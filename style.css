@@ -1,0 +1,64 @@
+.welcoming{
+    height: 65px;
+    text-align: center;
+    font-size: 15px;
+    color: purple;
+    border: 3px solid red;
+    background-color: #C9D9FD;
+    border-radius: 50px;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.button{
+ background-color: #659ACA;
+ color: white;
+ width: 350px;
+ height: 35px;
+ font-size: 25px;
+ border: 1.5px solid #659ACA ;
+}
+.birinchi{
+    width: 95%;
+    height: 40px;
+}
+h1 {
+    font-size: 25px;
+}
+
+.pr {
+    text-align: left;
+}
+
+h3 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+.images, .video{
+    text-align: center;
+}
+
+table{
+    margin-left: 150px ;
+    color: white;
+    width: 85%;
+height: 100px;
+text-align: center;
+}
+.green {
+    background-color: green;
+    border: grey;
+}
+.red {
+    background-color: red;
+
+}
+.blue {
+    background-color: blue;
+    
+}
+.black {
+    background-color: black;
+}
